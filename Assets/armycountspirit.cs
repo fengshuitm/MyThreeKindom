@@ -8,6 +8,7 @@ public class armycountspirit : MonoBehaviour {
     GameObject armycount;
     void Start () {
 	
+
 	}
 
     private void Awake()
