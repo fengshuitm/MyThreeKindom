@@ -1,4 +1,4 @@
-﻿using UnityEngine;
+using UnityEngine;
 using System.Collections;
 
 public class armycountspirit : MonoBehaviour {
@@ -7,8 +7,8 @@ public class armycountspirit : MonoBehaviour {
     int life = 25;
     GameObject armycount;
     void Start () {
-	
-		int testtest = 100;
+		int testcommit;
+
 	}
 
     private void Awake()
